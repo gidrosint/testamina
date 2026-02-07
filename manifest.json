@@ -1,6 +1,6 @@
 {
   "name": "Amina",
-  "short_name": "WebApp",
+  "short_name": "Амина",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -14,3 +14,4 @@
     }
   ]
 }
+
