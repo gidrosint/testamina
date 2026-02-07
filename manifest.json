@@ -1,6 +1,6 @@
 {
   "name": "Amina",
-  "short_name": "Amina",
+  "short_name": "Амина",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -14,5 +14,6 @@
     }
   ]
 }
+
 
 
